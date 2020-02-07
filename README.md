@@ -1,2 +1,2 @@
-# upgrade-code
-python basic gaming code
+# project-code
+basic python code
